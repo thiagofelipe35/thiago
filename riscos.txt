@@ -1,0 +1,32 @@
+Riscos Projeto
+
+Ambiente
+  
+ * Equipamentos próprios para pleno funcionamento do sistema
+    Ação: solicitar a aquisição de equipamentos compatíveis para alunos com necessidades especiais
+    Estratégia: eliminar
+    Responsável: Gerente de projetos
+ 
+ * Sistema externo que possa realizar a integração
+   Ação: verificar junto ao fornecedor do outro sistema a possibilidade de automação da integração entre sistemas
+   Estratégia: eliminar
+   Responsável: Arquiteto de sistemas
+
+
+Organizacional
+
+ * Verificação da disponibilidade de recursos e caracteristícas técnicas para continuidade do projeto
+    Ação: Verificar recursos disponíveis para a respectiva data e avaliar seus conhecimento. realizar contratação caso seja necessário.
+    Estratégia: eliminar
+    Responsável: Gerente de projetos
+
+ * Orçamento disponível. Avaliar se o orçamento disponível é compatível com o planejamento necessário para o desenvolvimento do projeto.
+    Ação: avaliar junto ao cliente o valor previsto para este desenvolvimento
+    Estratégia: mitigar
+    Responsável: gerente de projetos
+
+
+  * Cronograma. Como não foi informado datas será necessário avaliar com o cliente o prazo esperado
+    Ação: avaliar o prazo esperado com o prazo estimado de desenvolvimento
+    Estratégia: mitigar
+    Responsável: gerente de projetos
